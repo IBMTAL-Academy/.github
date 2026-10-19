@@ -1,12 +1,33 @@
-## Hi there 👋
+# <div align="center"> İBMTAL - NESNE TABANLI PROGRAMLAMA SINAV REHBERİ </div>
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+✨ **HERKESE SINAVDA BAŞARILAR DİLERİM!** ✨
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+---
+
+## 🎯 **SINAVDA DİKKAT EDİLECEK SORU ANALİZİ**
+
+Aşağıdaki liste, sınav kapsamındaki soruların önem derecelerine göre ayrıştırılmış profesyonel analizini içermektedir.
+
+| Soru No | Durum | Kapsam / Örnek Konu |
+| :---: | :---: | :--- |
+| **12** | 🟢 **ÖNEMLİ** | Kapsülleme (Encapsulation), Sınıf (Class) Yapıları ve Get/Set Metotları |
+| **29** | 🟢 **ÖNEMLİ** | Kalıtım (Inheritance) ve Çok Biçimlilik (Polymorphism) / Override |
+| **11** | 🔴 **ÖNEMSİZ** | Temel Düzey / Tali Bilgiler |
+| **18** | 🔴 **ÖNEMSİZ** | Sınav Kapsamı Dışı / Teorik Detay |
+| **20** | 🔴 **ÖNEMSİZ** | Sınav Kapsamı Dışı / Teorik Detay |
+
+---
+
+> 💡 **ÇALIŞMA STRATEJİSİ**
+> 
+> Zamanınızı ve enerjinizi boşa harcamamak adına **11, 18 ve 20 numaralı** soruları es geçip; doğrudan **12 ve 29 numaralı** önemli konulara odaklanın.
+
+<div align="center">
+
+🚀 **İBMTAL Ailesine Başarı Dolu Bir Sınav Dilerim!** 🚀
+
+</div>
